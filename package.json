@@ -1,0 +1,33 @@
+{
+  "name": "baladnarestaurant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BolaNaguib/BaladnaRestaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BolaNaguib/BaladnaRestaurant/issues"
+  },
+  "homepage": "https://github.com/BolaNaguib/BaladnaRestaurant#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "laravel-elixir": "^6.0.0-18"
+  },
+  "devDependencies": {
+    "gulp-clean-css": "^4.0.0",
+    "laravel-elixir-browsersync-official": "^1.0.0"
+  }
+}
