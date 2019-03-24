@@ -130,7 +130,7 @@ input:-webkit-autofill:focus {
 
 .area-title h2 {
     /*font-family: "Herr Von Muellerhoff", cursive;
-    font-family: 'Sacramento', cursive; 
+    font-family: 'Sacramento', cursive;
     font-family: 'Great Vibes', cursive;
 */
     color: #ca3d26;
@@ -146,7 +146,7 @@ input:-webkit-autofill:focus {
 }
 
 .area-title h2::after {
-    background: rgba(0, 0, 0, 0) url("img/icons/red.png") no-repeat scroll center center / contain;
+    background: rgba(0, 0, 0, 0) url("../img/icons/red.png") no-repeat scroll center center / contain;
     bottom: 0;
     content: "";
     height: 30px;
@@ -262,7 +262,7 @@ input:-webkit-autofill:focus {
 }
 
 .mainmenu-area::after {
-    background: rgba(0, 0, 0, 0) url("img/icons/tri-promo-bottom-white.png") repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url('../img/icons/tri-promo-bottom-white.png') repeat scroll 0 0;
     bottom: -7px;
     content: "";
     height: 7px;
@@ -488,7 +488,7 @@ a.home-reservation-button:hover {
 }
 
 .pogoSlider-slide::after {
-    background: #000 url("img/pattarn.png") repeat scroll 0 0;
+    background: #000 url("../img/pattarn.png") repeat scroll 0 0;
     content: "";
     height: 100%;
     left: 0;
@@ -675,7 +675,7 @@ a.search-form-trigger::before {
 ------------------------------*/
 
 .about-area {
-    background: rgba(0, 0, 0, 0) url("img/about/home_three_about_bg.png") no-repeat scroll center bottom / contain;
+    background: rgba(0, 0, 0, 0) url("../img/about/home_three_about_bg.png") no-repeat scroll center bottom / contain;
     position: relative;
 }
 
@@ -687,7 +687,7 @@ a.search-form-trigger::before {
 .team-area::before,
 .gallery-area::after,
 .footer-area::after {
-    background: rgba(0, 0, 0, 0) url("img/icons/tri-promo-bottom-white.png") repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("../img/icons/tri-promo-bottom-white.png") repeat scroll 0 0;
     content: "";
     height: 7px;
     left: 0;
@@ -773,7 +773,7 @@ a.read-more {
 .reservation-button-area-bg,
 .blog-area-bg,
 .footer-area-bg {
-    background: rgba(0, 0, 0, 0) url("img/promotions/promotions_area_bg_1.jpg") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("../img/promotions/promotions_area_bg_1.jpg") no-repeat scroll center center / cover;
     height: 100%;
     left: 0;
     position: absolute;
@@ -786,7 +786,7 @@ a.read-more {
 .blog-area-bg:after,
 .footer-area-bg::after,
 .page-barner-bg::after {
-    background: #000 url(img/pattarn.png);
+    background: #000 url('../img/pattarn.png');
     content: "";
     height: 100%;
     left: 0;
@@ -963,7 +963,7 @@ a.read-more {
 }
 
 .reservation-button-area-bg {
-    background: rgba(0, 0, 0, 0) url("img/promotions/promotions_area_bg_2.jpg") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("../img/promotions/promotions_area_bg_2.jpg") no-repeat scroll center center / cover;
 }
 
 .resarvation-from-button.text-center h2 {
@@ -1172,7 +1172,7 @@ option {
 }
 
 .blog-area-bg {
-    background: rgba(0, 0, 0, 0) url("img/promotions/promotions_area_bg_3.jpg") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("../img/promotions/promotions_area_bg_3.jpg") no-repeat scroll center center / cover;
 }
 
 .post-details {
@@ -1298,7 +1298,7 @@ a.post-meta-button {
 }
 
 .footer-area-bg {
-    background: rgba(0, 0, 0, 0) url("img/footer_bg_2.jpg") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("../img/footer_bg_2.jpg") no-repeat scroll center center / cover;
 }
 
 .footer-top {
@@ -1471,7 +1471,7 @@ ul.page-location li.active a {
 =================================*/
 
 .blog-page .page-barner-bg {
-    background: rgba(0, 0, 0, 0) url("img/blog/blog_page_barner.jpg") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("../img/blog/blog_page_barner.jpg") no-repeat scroll center center / cover;
 }
 
 .blog-page.section-padding {
@@ -1873,7 +1873,7 @@ ul.blog-instagram-feed-widget li {
 ================================*/
 
 .single-blog-page .page-barner-bg {
-    background: rgba(0, 0, 0, 0) url("img/blog/blog_details_page_barner.jpg") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("../img/blog/blog_details_page_barner.jpg") no-repeat scroll center center / cover;
 }
 
 .single-blog-page .title-and-meta::after {
@@ -1972,7 +1972,7 @@ ul.blog-instagram-feed-widget li {
 -----------------------------------*/
 
 .top-area-bg {
-    background: rgba(0, 0, 0, 0) url("img/slider/slide_1.jpg") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("../img/slider/slide_1.jpg") no-repeat scroll center center / cover;
     height: 100%;
     left: 0;
     position: absolute;
@@ -1982,7 +1982,7 @@ ul.blog-instagram-feed-widget li {
 }
 
 .top-area-bg::before {
-    background: #000000 url("img/pattarn.png") repeat scroll 0 0;
+    background: #000000 url("../img/pattarn.png") repeat scroll 0 0;
     content: "";
     height: 100%;
     left: 0;
